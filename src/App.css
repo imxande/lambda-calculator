@@ -7,7 +7,6 @@
     padding-bottom: 25px;
 }
 .display {
-    /* margin-top: 25px; */
     margin: 0 0 10px 0;
     height: 100px;
     width: 450px;
@@ -45,8 +44,8 @@ button {
 }
 
 button:hover {
-  background: #fff;
-  color: #282c34;
+  background: pink;
+  color: darkblue;
   transform: translateY(-1px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
@@ -73,9 +72,6 @@ button:hover {
   padding:5px;
 }
 
-/* .operatorsBtn {
-  background:
-}  */
 
 .logo-container {
     margin: 20px auto;
